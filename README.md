@@ -14,3 +14,4 @@ api creation is done via the creation of entity and the use of [API Platform](ht
 
 ## eventual todo :
 - adding [EasyAdmin](https://symfony.com/bundles/EasyAdminBundle/current/index.html)
+- maybe add a Makefile to have cli "shortcuts" 
