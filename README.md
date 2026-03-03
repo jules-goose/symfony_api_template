@@ -6,7 +6,9 @@ this project is meant to serve as a template/boilerplate project for basic api s
 - Composer
 - Docker and Docker Compose
 - Symfony CLI
-
+## setup after copy : 
+- change the docker compose.yaml db config
+- update the .env to reflect that
 ## intended usage :
 api creation is done via the creation of entity and the use of [API Platform](https://api-platform.com/docs/symfony/)
 
