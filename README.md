@@ -6,6 +6,8 @@ this project is meant to serve as a template/boilerplate project for basic api s
 - Composer
 - Docker and Docker Compose
 - Symfony CLI
+- Http yac
+
 ## setup after copy : 
 - change the docker compose.yaml db config
 - update the .env to reflect that
