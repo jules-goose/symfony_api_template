@@ -13,7 +13,7 @@ this project is meant to serve as a template/boilerplate project for basic api s
 - update the .env to reflect that
 ## intended usage :
 api creation is done via the creation of entity and the use of [API Platform](https://api-platform.com/docs/symfony/)
+also ship with [EasyAdmin](https://symfony.com/bundles/EasyAdminBundle/current/index.html)
 
 ## eventual todo :
-- adding [EasyAdmin](https://symfony.com/bundles/EasyAdminBundle/current/index.html)
 - maybe add a Makefile to have cli "shortcuts" 
